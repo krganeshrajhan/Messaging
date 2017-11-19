@@ -14,7 +14,7 @@ public class MessagingStarter {
         return "Hello World!";
     }*/
 
-    public static void main(String[] args) throws Exception {
+    /*public static void main(String[] args) throws Exception {
         SpringApplication.run(MessagingStarter.class, args);
-    }
+    }*/
 }
